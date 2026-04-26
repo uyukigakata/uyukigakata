@@ -1,47 +1,62 @@
-<!-- 1. GitHub usernameを変更 -->
+<!-- プロフィール閲覧数 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME" />
 </div>
 
+## 👋 Hi there, I'm Yuu
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+- 🧑‍💻 Backend / Security Engineer
+- 🎓 University student (Information Engineering)
+- 🔐 Interested in Cyber Security / Incident Response / CTF
+- 🌱 Currently learning: Go / Cloud / Network Security
+- 🚀 Working on: DNS Amplification Attack Detection & Prevention
+- 📫 Contact: [Twitter - @YOUR_USERNAME](https://twitter.com/YOUR_USERNAME)
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
-<br>
+---
 
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
-<br>
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,ts,react,nextjs,fastapi,nodejs,docker,linux,aws,gcp,terraform,git,github" />
 
+---
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+## 🧠 Research / Interests
+- DNS Amplification Attack（DNSamp）検知
+- DRDoS攻撃対策
+- ネットワークトラフィック解析
+- QUIC / DoH / DoQ など次世代プロトコル
+- セキュリティ診断・ログ解析
+
+---
+
+## 🏃 Activities（言語使用状況・統計）
+
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+  <!-- GitHub stats -->
+  <img alt="github stats" height="170px" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=vue-dark&show_icons=true" />
+  
+  <!-- 使用言語 -->
+  <img alt="Top Langs" height="170px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=vue-dark&layout=compact" />
 </div>
 
+---
 
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Achievements
+- 🥇 西日本横断サイバーセキュリティ・グランプリ 優勝
+- 🛡️ 情報セキュリティスキルアッププロジェクト（幹部）
+- 🔐 SecHack365 参加
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔍 DNS攻撃検知システム（Scapy + Python）
+- 🧠 炎上検知AIシステム（動画解析 × LLM）
+- 📱 デジタルレターアプリ（Next.js + Supabase）
+- 🗺️ 配達型チャットアプリ（Flutter）
 
+---
+
+## ⚡ Fun Fact
+- ネットワーク攻撃を「防ぐ側」に興味あり
+- CTF・ハッカソン大好き
