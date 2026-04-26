@@ -7,6 +7,6 @@
 
 
 <div align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&langs_count=8" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=uyukigakata&show_icons=true&theme=vue-dark" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyukigakata&layout=compact&theme=vue-dark&langs_count=8" />
 </div>
